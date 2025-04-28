@@ -7,4 +7,4 @@ The Dataset used are :
 
 
 
-<a href="https://github.com/samarth2910/ECommerce-Sales-Dashboard-PowerBI/blob/main/Screenshot%20(25).png">View Dashboard</a>
+<a href="https://github.com/samarth2910/Netflix-BI-Dashboard/blob/main/Netflix%20Dashboard%20Screesnshot.png">View Dashboard</a>
