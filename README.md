@@ -1,4 +1,5 @@
 📊 Netflix Content Analysis Dashboard
+
 This Power BI project presents an interactive dashboard that analyzes Netflix’s global content library. It provides key insights into the distribution, ratings, country contributions, and yearly trends of movies and TV shows available on the platform.
 
 🚀 Key KPIs:
