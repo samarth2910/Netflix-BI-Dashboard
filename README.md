@@ -3,7 +3,7 @@ A Power BI dashboard analyzing Netflix’s global content library. Includes insi
 
 
 The Dataset used are :
-<a href="https://github.com/samarth2910/Netflix-BI-Dashboard/blob/main/netflix_titles.csv)">Netflix Titles</a>
+<a href="https://github.com/samarth2910/Netflix-BI-Dashboard/blob/main/netflix_titles.csv">Netflix Titles</a>
 
 
 
