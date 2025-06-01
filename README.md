@@ -49,4 +49,4 @@ The Dataset used are :
 
 
 
-<a href="https://github.com/samarth2910/Netflix Dashboard Screenshot.png">View Dashboard</a>
+<a href="Netflix Dashboard Screenshot.png">View Dashboard</a>
