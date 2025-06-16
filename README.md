@@ -48,5 +48,4 @@ The Dataset used are :
 <a href="https://github.com/samarth2910/Netflix-BI-Dashboard/blob/main/netflix_titles.csv">Netflix Titles</a>
 
 
-
-<a href="Netflix Dashboard Screenshot.png">View Dashboard</a>
+![Netflix Dashboard](https://github.com/samarth2910/Netflix-BI-Dashboard/blob/main/Netflix%20Dashboard%20Screenshot.png?raw=true)
